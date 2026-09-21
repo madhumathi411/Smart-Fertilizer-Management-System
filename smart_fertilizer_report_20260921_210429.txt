@@ -1,0 +1,38 @@
+SMART FERTILIZER MANAGEMENT SYSTEM
+=====================================
+
+FARMER DETAILS
+--------------
+Farmer Name : madhu
+Farm Name   : madhu's farm
+Email       : madhuganesan411@gmail.com
+Phone       : 9003439260
+Crop        : Rice
+Farm Area   : 3
+
+SENSOR VALUES
+-------------
+Soil Moisture : 100 %
+Nitrogen      : 20
+Phosphorus    : 92
+Potassium     : 84
+Temperature   : 27 °C
+Humidity      : 70 %
+
+ANALYSIS
+--------
+Moisture    : High
+Nitrogen    : Low
+Phosphorus  : High
+Potassium   : High
+Temperature : Suitable
+Humidity    : Normal
+
+FERTILIZER RECOMMENDATION
+-------------------------
+Recommended Fertilizer : Nitrogen-focused fertilizer
+Recommended Quantity   : Calculate crop-specific dose for 3 area using a qualified agronomic recommendation
+Application Timing     : Apply at the crop-appropriate growth stage after confirming the soil test
+Explanation            : Nitrogen is below the prototype threshold, so the system flags it for attention.
+
+Date & Time : 21-09-2026 09:03 PM
